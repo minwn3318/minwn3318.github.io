@@ -2,7 +2,7 @@
 layout: post
 title: Table example
 subtitle:
-categories: example
+categories: jekyll
 tags: [table]
 ---
 

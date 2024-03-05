@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mermaid example
-categories: example
+categories: jekyll
 tags: [mermaid]
 ---
 
