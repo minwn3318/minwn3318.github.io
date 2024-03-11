@@ -17,7 +17,6 @@ banner:
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
 tags: jekyll theme yat
-top: 1
 sidebar: []
 ---
 
