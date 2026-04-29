@@ -1,5 +1,5 @@
 ---
-title: finetuning---파인튜닝
+title: finetuning---파인튜닝 실행코드
 date: 2026-04-27 10:00:00 +0900
 categories: [genai]
 tags: [ai, transformer]
