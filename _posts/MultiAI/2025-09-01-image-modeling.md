@@ -1,7 +1,7 @@
 ---
 title: image-modeling
 date: 2026-04-27 10:00:00 +0900
-categories: [ai, theory]
+categories: [ImageAI, theory]
 tags: [multiai, theory]
 ---
 
